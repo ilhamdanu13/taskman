@@ -1,4 +1,4 @@
-# RWID GitHub Actions
+# WeTask GitHub Actions
 
 [![License](https://badgen.net/github/license/ngodingbang/rwid-github-actions "License")](LICENSE.md)
 [![Release](https://badgen.net/github/release/ngodingbang/rwid-github-actions "Release")](https://github.com/ngodingbang/rwid-github-actions/releases)
@@ -8,7 +8,7 @@
  
 ## Table of Contents
 
-- [RWID GitHub Actions](#rwid-github-actions)
+- [WeTask GitHub Actions](#rwid-github-actions)
   - [Table of Contents](#table-of-contents)
   - [Requirement](#requirement)
   - [Installation](#installation)
